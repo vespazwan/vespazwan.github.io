@@ -1,8 +1,3 @@
----
-layout: default
-title: TC Ahmad Azwan
----
-
 # 👋 Hi, I'm TC Ahmad Azwan
 
 ### Freelance PHP Laravel Developer
